@@ -12,7 +12,7 @@ import jade.domain.FIPAAgentManagement.ServiceDescription;
 
 import java.util.*;
 /**
- *
+ **
  * @author HrithikTriv & Sanket
  */
 public class BidderComp extends Agent {
