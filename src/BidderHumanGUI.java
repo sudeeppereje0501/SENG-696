@@ -6,7 +6,7 @@ import java.awt.event.*;
 import javax.swing.*;
 /**
  *
- * @author HrithikTriv & Rajpal
+ * @author HrithikTriv & Rajpalsinh
  */
 class BidderHumanGUI extends JFrame {	
 
