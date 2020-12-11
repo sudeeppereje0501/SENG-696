@@ -14,7 +14,7 @@ import jade.domain.FIPAAgentManagement.ServiceDescription;
 import java.util.*;
 
 /**
- *
+ *--
  * @author SPereje & Sanket
  */
 public class AuctionManager extends Agent {
