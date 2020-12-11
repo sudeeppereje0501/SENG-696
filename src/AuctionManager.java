@@ -15,7 +15,7 @@ import java.util.*;
 
 /**
  *--
- * @author SPereje & Sanket Ladani
+ * @author SPereje & SanketLadani
  */
 public class AuctionManager extends Agent {
 
