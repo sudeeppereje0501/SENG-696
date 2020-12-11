@@ -13,7 +13,7 @@ import jade.domain.FIPAAgentManagement.ServiceDescription;
 
 import java.util.*;
 
-/**
+/*
  *--
  * @author SPereje & SanketLadani
  */
