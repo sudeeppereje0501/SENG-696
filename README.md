@@ -2,9 +2,9 @@
 FINAL PROJECT FOR SENG 696-AGENT BASED SOFTWARE ENGINEERING
 
 
-This Project is inspired from Book Trading example
+This Project is inspired from Book Trading Example
 
-Auction House illustration
+AUCTION HOUSE ILLUSTRATION
 
 ![](screenshots/output-1.PNG)
 
