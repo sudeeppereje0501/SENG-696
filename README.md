@@ -5,7 +5,7 @@
 
 This Project is inspired from Book Trading Example
 
-PROJECT NAME : # **AUCTION HOUSE**
+PROJECT NAME : **AUCTION HOUSE**
 
 ![](screenshots/output-1.PNG)
 
