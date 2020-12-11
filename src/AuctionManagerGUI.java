@@ -8,7 +8,7 @@ import javax.swing.*;
 
 /**
  *
- * @author SPereje & Rajpalsinh
+ * @author SPereje &  Rajpalsinh
  */
 class AuctionManagerGUI extends JFrame {	
 
