@@ -14,7 +14,7 @@ import jade.domain.FIPAAgentManagement.ServiceDescription;
 import java.util.*;
 /**
  *
- * @author Sanket & Rajpalsinh
+ * @author Sanket Ladani & Rajpalsinh
  */
 public class BidderHuman extends Agent {
 
