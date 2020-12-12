@@ -104,8 +104,8 @@ public class AuctionManager extends Agent {
                              catalogue.remove(title);
                          }
                      }
-                     );
-        return price;
+			};
+		return price
 	}
 
     public boolean isCatalogueEmpty() {
