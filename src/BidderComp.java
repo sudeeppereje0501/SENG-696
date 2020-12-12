@@ -110,7 +110,7 @@ class ReceiveCFPAsComp extends CyclicBehaviour {
             System.out.println("Auction commenced. Current item is " + itemName);
             System.out.println("Current item initial price is " + itemInitialPrice);
 
-            // Check if budget is adequate 
+            // Check if the budget is adequate 
             if (myAgent.budget >= itemInitialPrice) {
 
                 myAgent.itemName = itemName;
