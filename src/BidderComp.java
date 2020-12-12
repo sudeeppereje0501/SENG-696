@@ -23,7 +23,7 @@ public class BidderComp extends Agent {
     // Check if CFP received
     public boolean CFPReceived = false;
 
-    // The budget left for this bidder
+    // Budget left for this bidder
     public int budget;
 
     // Random number generator
