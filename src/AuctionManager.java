@@ -57,7 +57,7 @@ public class AuctionManager extends Agent {
 
 		// Create the catalogue
 		catalogue = new Hashtable();
-        updateCatalogue("Book ABC $",1200);
+       
 
 		// Create and show the GUI 
 		myGui = new AuctionManagerGUI(this);
